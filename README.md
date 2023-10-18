@@ -9,7 +9,7 @@ This project aims to build a search engine based on a document corpus consisting
 1. Setup
 
    - Ensure all the required libraries are installed. If not, install them using `pip`.
-   - add an l to the json file `.json` to `.jsonl` file containing the tweets in the `data/` directory.
+   - Rename the file extension from `.json` to `.jsonl` for the file containing tweets in the `data/` directory.
 
 2. Execute the Search Engine:
 
